@@ -1,0 +1,100 @@
+﻿Source,Destination,Shipment_Date,Weight,Volume,Equipment_Type,Carrier_Name,Freight_Rate,Shipment_ID,Service_Level,Temperature,Pickup_Date,Loading_Dock_Type,Shipment_Status,VIN,Payment_Terms,Commodity_Type,Distance,Driver_ID
+Chandigarh,Kanpur,March 6 2026,3775 tons,47 CBM,LTL,Schneider National,1055,SH100000,Urgent,35Â°F,2024-01-15T08:30,Lift Gate,On Hold,VIN 7305745,Prepaid,Furniture,350 KM,DRV 4251273
+Hyderabad,Ahmedabad,06-03-2026,16743 kg,25 cubic meters,Container,Ryder Logistics,EUR 3964,SH100001,Next Day,35Â°F,"January 15, 2024",Side Load,Picked Up,VIN 6998796,PPD,Plastic Goods,400 kilometers,DRIVER2843249
+Cochi,Chandigarh,32/02/2026,6272 tons,87 cubic meters,Tanker,XPO Logistics,"USD 3,091",SH100002,Premium,40Â°F,2024-01-15T08:30,Loading Dock,Delivered,VIN 3410400,COL,Machinery,450-km,DRV 2085114
+Chandigarh,Ahmedabad,03-06-2026,15546 Ton,15 cubic meters,Dry Van,Ryder Logistics,"EUR 1,972",SH100003,Economy,2C,15-01-2024,Forklift,Picked Up,VIN1017739,Freight Collect,Textiles,250 km,DRV 7255801
+Mumbai,Kanpur,Feb 6 2026,6356 KG,22 CBM,Dry Van,Swift Transport,3575 USD,SH100004,Ground,-10Â°F,Jan 15 2024,Loading Dock,Picked Up,VIN:2871002,PPD,Steel,1000kms,DRIVER6299254
+Raipur,Vijayawada,06-03-2026,19459 lbs,40 m3,Lowboy,FedEx Freight,USD 2129,SH100005,Standard,20 Â°C,15-01-2024,Rear Load,Cancelled,VIN1343243,Collect,Auto Parts,450-km,DRV7073244
+Mumbai,Trichy,Feb 6 2026,9860 KG,34 CBM,FTL,FedEx Freight,2053,SH100006,Economy,Cold,15-01-2024,Ramp,Processing,VIN-8610251,Freight Collect,Plastic Goods,500km,DRV-1357236
+Ranchi,Mumbai,03-06-2026,14315 lbs,12 cu ft,FTL,FedEx Freight,$1019,SH100007,STD,40Â°F,20240115,Loading Dock,On Hold,VIN 3225715,Collect,Electronics,900 km,DRV8792155
+Cochi,Chandigarh,March 6 2026,7556 tons,8 cu ft,Dry Van,UPS Logistics,2802,SH100008,Express,40Â°F,15-01-2024,Open Yard,Cancelled,vin2502247,COL,FMCG,700 km,DRV 9829412
+Varanasi,Pune,Feb 6 2026,3983 tons,50 cu ft,FTL,Schneider National,USD 3648,SH100009,Urgent,-10Â°F,01/15/2024,Forklift,Pending,VIN 6928620,Prepaid,Electronics,1000kms,DRV-5020574
+Varanasi,Nagpur,06-03-2026,8447 KG,25 m3,Dry Van,XPO Logistics,"â‚¹1,168",SH100010,Next Day,-10Â°F,20240115,Open Yard,Processing,vin8159047,Freight Prepaid,Auto Parts,900 km,DRIVER3985848
+Varanasi,Pune,03-06-2026,1395 Ton,8 CBM,Less Than Truckload,Swift Transport,1910 USD,SH100011,Same Day,35Â°F,01/15/2024,Ramp,On Hold,VIN-9072684,Prepaid,Plastic Goods,450-km,DRV-4302277
+Mumbai,Chennai,06-03-2026,12786 Ton,35 m3,Flatbed,JB Hunt,"â‚¹1,678",SH100012,Urgent,-5C,01/15/2024,Rear Load,Delivered,VIN-8375677,PPD,Machinery,1000kms,DRV9215720
+Indore,Ranchi,32/02/2026,2800 tons,78 cu ft,Full Truck Load,UPS Logistics,"â‚¹1,862",SH100013,Ground,5 Â°C,01/15/2024,Open Yard,Pending,VIN-3464658,Freight Prepaid,Auto Parts,500km,DRV-7968452
+Madurai,Noida,32/02/2026,3713 Ton,40 CBM,Flatbed,Landstar System,1728 USD,SH100014,Economy,35Â°F,"January 15, 2024",No Dock,Pending,VIN:6997174,STC,Textiles,700 km,DRV-6008407
+Noida,Hosur,06-03-2026,858 Ton,60 cu ft,Lowboy,Knight Transportation,3981,SH100015,Same Day,8C,01/15/2024,No Dock,On Hold,VIN:9928222,Freight Prepaid,Furniture,900 km,drv2607497
+Hyderabad,Ahmedabad,03-06-2026,4714 KG,16 CBM,FTL,Schneider National,EUR 1980,SH100016,Priority,Ambient,"January 15, 2024",Dock,Picked Up,vin8418662,Collect,Textiles,500km,DRV-4952473
+Vijayawada,Ahmedabad,03-06-2026,1696 Ton,39 CBM,LTL,SWIFT TRANSPORT,"EUR 3,714",SH100017,Express,35Â°F,2024-01-15T08:30,Loading Dock,Pending,VIN 9869654,Freight Prepaid,Plastic Goods,300km,DRV-6113304
+Visakhapatnam,Chandigarh,06-03-2026,4278 Ton,35 m3,Tanker,XPO Logistics,USD 2763,SH100018,STD,8C,20240115,Dock,Delayed,VIN-2678410,Collect,Furniture,600 KM,DRIVER6522486
+Hyderabad,Visakhapatnam,03-06-2026,16539 KG,40 CBM,Lowboy,Ryder Logistics,1060 USD,SH100019,Same Day,8C,"January 15, 2024",No Dock,Processing,VIN:4311168,PPD,Agricultural Products,400 kilometers,DRIVER1934037
+Chandigarh,Mumbai,32/02/2026,11081 lbs,31 CBM,Less Than Truckload,Schneider National,2302 USD,SH100020,Ground,2C,15-01-2024,No Dock,Delivered,vin8752267,Freight Collect,Auto Parts,450-km,DRV3632591
+Cochi,Chandigarh,Feb 6 2026,1889 Ton,94 CBM,Step Deck,FedEx Freight,1323,SH100021,Premium,5 Â°C,20240115,Rear Load,Processing,vin1284575,Freight Collect,Textiles,500km,DRV8452315
+Chennai,Visakhapatnam,06-03-2026,6969 tons,89 CBM,LTL,SWIFT TRANSPORT,3811 USD,SH100022,Next Day,-10Â°F,01/15/2024,Loading Dock,Picked Up,VIN:1453429,STC,Agricultural Products,250 km,DRV 7265980
+Nagpur,Delhi,32/02/2026,19134 kg,51 cu ft,Flatbed,JB Hunt,1798 USD,SH100023,Next Day,2Â°C,2024-01-15T08:30,Lift Gate,Pending,vin1840380,Freight Collect,Machinery,600 KM,drv4217147
+Cochi,Chandigarh,March 6 2026,5307 tons,77 m3,LTL,SWIFT TRANSPORT,USD 3317,SH100024,Priority,Cold,01/15/2024,No Dock,Processing,VIN 5699355,COL,Machinery,500km,DRV-3587397
+Indore,Ranchi,03-06-2026,19343 lbs,26 cu ft,Reefer,UPS Logistics,2884 USD,SH100025,Priority,5 Â°C,15-01-2024,Ramp,Delayed,VIN 7508446,Freight Collect,Machinery,800 KM,drv7588207
+Patna,Chennai,06-03-2026,6445 Ton,36 m3,Less Than Truckload,Maersk Line,USD 1669,SH100026,Ground,-10Â°F,15-01-2024,Lift Gate,On Hold,VIN:6287038,Freight Collect,FMCG,250 km,DRV-3491993
+Noida,Hosur,03-06-2026,15746 KG,37 m3,Tanker,UPS Logistics,3832,SH100027,STD,Frozen,01/15/2024,Ramp,Delayed,VIN-6401727,STC,Agricultural Products,300km,drv6731189
+Nagpur,Delhi,03-06-2026,13945 lbs,17 cu ft,Less Than Truckload,FedEx Freight,2468 USD,SH100028,Overnight,Cold,2024-01-15T08:30,Dock,In Transit,VIN-8814508,STC,Furniture,900 km,DRV7397916
+Mumbai,Delhi,06-03-2026,16442 Ton,35 cubic meters,Container,XPO Logistics,$2817,SH100029,Same Day,2Â°C,15-01-2024,Rear Load,Cancelled,vin8567734,Collect,Electronics,1000kms,DRV 3451763
+Madurai,Noida,March 6 2026,5417 KG,88 CBM,Tanker,DHL Express,USD 2356,SH100030,Economy,+4C,01/15/2024,Ramp,Processing,VIN-4586810,Prepaid,Pharma,350 KM,DRV2444513
+Vijayawada,Ahmedabad,06-03-2026,19044 KG,100 CBM,Reefer,Knight Transportation,1721,SH100031,STD,20 Â°C,2024-01-15T08:30,Dock,Pending,VIN:1400189,COL,Furniture,250 km,DRV 3752567
+Mumbai,Delhi,06-03-2026,19900 KG,88 cu ft,Container,JB Hunt,"$2,563",SH100032,Standard,40Â°F,2024-01-15T08:30,Ramp,Delayed,VIN 3121093,STC,Textiles,250 km,drv9569257
+Cochi,Chandigarh,32/02/2026,6240 KG,78 cu ft,Less Than Truckload,UPS Logistics,USD 3623,SH100033,STD,40Â°F,"January 15, 2024",Open Yard,Delivered,VIN:9302268,Freight Prepaid,Electronics,900 km,DRV4281033
+Trichy,Chennai,03-06-2026,14858 kg,89 cubic meters,Dry Van,UPS Logistics,$3195,SH100034,Standard,-5C,"January 15, 2024",Dock,Picked Up,vin4248497,COL,Pharma,300km,DRV-7170473
+Noida,Surat,06-03-2026,14737 kg,7 cubic meters,Full Truck Load,Ryder Logistics,1785 USD,SH100035,STD,+4C,15-01-2024,Rear Load,In Transit,VIN:2419370,Freight Collect,Pharma,1000kms,DRV5946546
+Indore,Nagpur,Feb 6 2026,645 KG,51 CBM,Container,Ryder Logistics,2214 USD,SH100036,Express,Frozen,01/15/2024,Rear Load,Picked Up,VIN7297256,STC,Pharma,600 KM,DRIVER5761327
+Chennai,Hyderabad,06-03-2026,1656 KG,30 cu ft,Reefer,JB Hunt,â‚¹3834,SH100037,Express,2Â°C,20240115,No Dock,Cancelled,VIN 7070681,Freight Collect,Chemicals,700 km,DRV5288102
+Chennai,Hyderabad,06-03-2026,459 kg,40 m3,Less Than Truckload,JB Hunt,USD 2201,SH100038,Priority,8C,01/15/2024,Forklift,Delivered,VIN7707963,PPD,Plastic Goods,350 KM,DRV-9144389
+Noida,Surat,03-06-2026,17035 Ton,68 cu ft,Tanker,XPO Logistics,2313 USD,SH100039,Ground,Cold,15-01-2024,Lift Gate,Pending,VIN:7946720,Freight Collect,Chemicals,350 KM,drv1408992
+Delhi,Chennai,March 6 2026,590 lbs,42 cu ft,LTL,SWIFT TRANSPORT,"USD 2,912",SH100040,Same Day,-5C,"January 15, 2024",Lift Gate,Delayed,VIN-5316577,COL,Auto Parts,350 KM,DRIVER3133315
+Jaipur,Gurgaon,06-03-2026,12813 kg,27 cu ft,Full Truck Load,XPO Logistics,"â‚¹2,894",SH100041,Next Day,Cold,"January 15, 2024",Side Load,On Hold,VIN2572155,STC,Textiles,800 KM,drv7017404
+Patna,Chennai,06-03-2026,3327 tons,62 m3,Full Truck Load,XPO Logistics,3234 USD,SH100042,Premium,No Temp Control,15-01-2024,Rear Load,In Transit,VIN 2840985,PPD,Electronics,600 KM,DRV-7427742
+Gurgaon,Chandigarh,Feb 6 2026,9511 KG,100 cu ft,FTL,Knight Transportation,2339,SH100043,Express,2C,2024-01-15T08:30,Forklift,Processing,VIN 2426175,PPD,Machinery,450-km,DRV 5068917
+Vijayawada,Ahmedabad,32/02/2026,10772 tons,64 CBM,Reefer,Schneider National,1443,SH100044,STD,No Temp Control,Jan 15 2024,Side Load,Delayed,VIN-3037722,COL,Auto Parts,600 KM,drv6530597
+Delhi,Guwahati,Feb 6 2026,18583 Ton,22 m3,Dry Van,FedEx Freight,3366 USD,SH100045,Express,2Â°C,2024-01-15T08:30,Forklift,Cancelled,VIN 8384030,Freight Prepaid,Plastic Goods,300km,DRV8663456
+Pune,Varanasi,32/02/2026,6285 lbs,74 CBM,LTL,Ryder Logistics,"â‚¹2,588",SH100046,Same Day,5 Â°C,Jan 15 2024,Ramp,Delivered,VIN:2581287,PPD,Chemicals,450-km,drv5686041
+Hyderabad,Ahmedabad,Feb 6 2026,4276 KG,75 cu ft,Container,Landstar System,EUR 2222,SH100047,Express,Ambient,20240115,Lift Gate,Picked Up,VIN-4775289,COL,Electronics,500km,DRV-3811011
+Ahmedabad,Chennai,03-06-2026,18165 KG,72 m3,fulltruck,Landstar System,USD 2826,SH100048,Next Day,+4C,01/15/2024,Dock,Delivered,VIN 4458533,Freight Collect,Electronics,300km,DRV 8746759
+Trichy,Lucknow,06-03-2026,9474 lbs,2 cubic meters,fulltruck,JB Hunt,3854,SH100049,Same Day,Frozen,Jan 15 2024,Ramp,Picked Up,VIN5739702,Collect,Auto Parts,300km,DRV-1588120
+Hyderabad,Ahmedabad,Feb 6 2026,7874 Ton,76 cubic meters,Step Deck,SWIFT TRANSPORT,2052,SH100050,Premium,2C,01/15/2024,Open Yard,Cancelled,VIN:4424066,Freight Prepaid,Furniture,900 km,DRV9272671
+Trichy,Nagpur,March 6 2026,9687 lbs,30 m3,Reefer,Knight Transportation,1800 USD,SH100051,Ground,35Â°F,15-01-2024,Lift Gate,Pending,VIN 9870787,Prepaid,FMCG,250 km,DRV1765209
+Hyderabad,Visakhapatnam,Feb 6 2026,8299 Ton,96 cu ft,Less Than Truckload,XPO Logistics,1783 USD,SH100052,Economy,Ambient,Jan 15 2024,Open Yard,Pending,VIN 8420032,STC,Furniture,400 kilometers,DRV-1859735
+Hyderabad,Visakhapatnam,06-03-2026,9470 Ton,36 CBM,Full Truck Load,Schneider National,1581 USD,SH100053,Express,35Â°F,15-01-2024,Side Load,Picked Up,VIN1834522,Collect,Furniture,400 kilometers,DRIVER5308032
+Chennai,Visakhapatnam,32/02/2026,607 tons,96 m3,Container,Maersk Line,2634 USD,SH100054,Overnight,35Â°F,"January 15, 2024",Side Load,Processing,VIN 7682663,Prepaid,Plastic Goods,450-km,drv4109290
+Visakhapatnam,Chandigarh,Feb 6 2026,16158 lbs,24 CBM,Full Truck Load,Knight Transportation,â‚¹937,SH100055,Ground,No Temp Control,15-01-2024,Rear Load,Picked Up,VIN 9451902,Freight Collect,Chemicals,450-km,DRV 9292290
+Trichy,Chennai,03-06-2026,19902 kg,16 cu ft,Step Deck,FedEx Freight,2508 USD,SH100056,Same Day,8C,"January 15, 2024",Open Yard,On Hold,VIN 7037962,COL,Textiles,600 KM,DRV4400118
+Mumbai,Chennai,March 6 2026,9434 lbs,52 cu ft,Tanker,Swift Transport,"EUR 3,529",SH100057,Express,2Â°C,Jan 15 2024,Ramp,Delayed,VIN 4937185,PPD,Furniture,600 KM,DRV8826303
+Jaipur,Gurgaon,March 6 2026,2098 KG,41 cubic meters,Dry Van,Schneider National,2083 USD,SH100058,STD,Frozen,20240115,Loading Dock,Pending,VIN:7053826,Collect,FMCG,300km,DRV-4941754
+Indore,Chennai,06-03-2026,2101 KG,35 cu ft,Full Truck Load,UPS Logistics,"$1,470",SH100059,Priority,20 Â°C,"January 15, 2024",Ramp,Delivered,VIN 9413692,COL,Machinery,250 km,drv5509218
+Patna,Kanpur,March 6 2026,9277 lbs,62 m3,Reefer,Ryder Logistics,3964,SH100060,Economy,+4C,Jan 15 2024,Rear Load,On Hold,VIN-7760122,Freight Collect,Chemicals,900 km,DRIVER9541194
+Jaipur,Gurgaon,06-03-2026,17165 KG,27 m3,Full Truck Load,SWIFT TRANSPORT,"$2,065",SH100061,STD,Ambient,"January 15, 2024",Rear Load,On Hold,vin5291462,COL,Plastic Goods,400 kilometers,DRV-5794438
+Guwahati,Hyderabad,03-06-2026,9790 lbs,96 cubic meters,Lowboy,UPS Logistics,"USD 1,723",SH100062,Same Day,5 Â°C,20240115,Loading Dock,On Hold,VIN6552930,Prepaid,Pharma,700 km,DRIVER1173786
+Trichy,Lucknow,06-03-2026,14008 KG,68 cubic meters,Flatbed,SWIFT TRANSPORT,1399 USD,SH100063,Priority,8C,20240115,Open Yard,Picked Up,VIN:3706961,Collect,Electronics,350 KM,drv3488925
+Surat,Hosur,March 6 2026,17789 KG,28 CBM,Container,Knight Transportation,1305 USD,SH100064,Standard,5 Â°C,"January 15, 2024",Side Load,Processing,VIN 3921887,STC,Pharma,1200 kilometers,DRV 7402792
+Chandigarh,Ahmedabad,Feb 6 2026,15549 Ton,55 m3,Less Than Truckload,SWIFT TRANSPORT,3819 USD,SH100065,Standard,8C,Jan 15 2024,Loading Dock,Cancelled,VIN2143986,COL,Furniture,250 km,DRV5895228
+Ahmedabad,Ranchi,Feb 6 2026,12011 kg,10 cubic meters,Full Truck Load,JB Hunt,"$3,101",SH100066,Priority,Ambient,"January 15, 2024",Lift Gate,On Hold,vin7546758,COL,Chemicals,350 KM,DRV8849713
+Ranchi,Mumbai,32/02/2026,9050 Ton,56 cubic meters,Reefer,Maersk Line,3061,SH100067,Economy,-10Â°F,"January 15, 2024",Dock,Pending,vin5861452,Collect,Chemicals,900 km,drv4381521
+Hyderabad,Visakhapatnam,06-03-2026,15735 lbs,39 m3,FTL,DHL Express,"â‚¹1,685",SH100068,Express,8C,15-01-2024,Loading Dock,On Hold,VIN-6600232,STC,Plastic Goods,1200 kilometers,DRV4952309
+Cochi,Chandigarh,06-03-2026,11696 lbs,69 CBM,Container,Knight Transportation,2427,SH100069,Next Day,5 Â°C,Jan 15 2024,Rear Load,On Hold,VIN5567611,PPD,Textiles,250 km,DRV-1288075
+Noida,Hosur,06-03-2026,6034 lbs,36 cubic meters,Lowboy,Ryder Logistics,â‚¹2486,SH100070,Standard,-5C,Jan 15 2024,Rear Load,Picked Up,VIN 4385643,Prepaid,Steel,300km,DRV 1502181
+Gurgaon,Patna,Feb 6 2026,7153 lbs,26 cubic meters,Less Than Truckload,JB Hunt,2233,SH100071,Same Day,2Â°C,20240115,Loading Dock,Picked Up,VIN-3610123,Freight Collect,Steel,250 km,DRIVER2769218
+Ranchi,Mumbai,06-03-2026,14053 lbs,7 m3,LTL,Schneider National,3216,SH100072,Express,No Temp Control,2024-01-15T08:30,Forklift,Delayed,vin6987097,Collect,FMCG,250 km,drv5704994
+Mumbai,Kanpur,06-03-2026,11039 lbs,31 cubic meters,Full Truck Load,Knight Transportation,"$1,824",SH100073,Urgent,5 Â°C,2024-01-15T08:30,Rear Load,Cancelled,VIN-1292081,STC,Steel,500km,DRIVER7315411
+Patna,Kanpur,03-06-2026,16923 lbs,68 cubic meters,Dry Van,Maersk Line,1646 USD,SH100074,Next Day,+4C,15-01-2024,No Dock,In Transit,vin6853474,Freight Collect,Furniture,250 km,DRV 5779085
+Patna,Hosur,03-06-2026,4613 Ton,98 m3,Dry Van,Ryder Logistics,3757 USD,SH100075,Urgent,2Â°C,20240115,Rear Load,Processing,vin5933493,COL,Pharma,400 kilometers,drv2213862
+Trichy,Lucknow,32/02/2026,6391 KG,13 cubic meters,Dry Van,Landstar System,"$3,217",SH100076,Overnight,Cold,Jan 15 2024,Dock,In Transit,VIN2742085,STC,Furniture,1000kms,DRV 7401285
+Ahmedabad,Gurgaon,32/02/2026,3159 tons,86 cu ft,LTL,Schneider National,"$1,152",SH100077,Express,35Â°F,2024-01-15T08:30,Open Yard,On Hold,VIN6475206,Freight Prepaid,Steel,400 kilometers,DRV-2615929
+Ahmedabad,Chennai,March 6 2026,19686 kg,11 m3,fulltruck,UPS Logistics,EUR 3221,SH100078,STD,2Â°C,01/15/2024,Ramp,Delayed,VIN1454304,Freight Collect,Machinery,700 km,DRIVER8231424
+Noida,Hosur,03-06-2026,2968 KG,87 CBM,Full Truck Load,Knight Transportation,"EUR 2,540",SH100079,Overnight,2C,15-01-2024,Dock,In Transit,VIN6722168,Freight Collect,Plastic Goods,600 KM,DRIVER7564536
+Bhopal,Chennai,06-03-2026,17694 tons,59 CBM,Dry Van,JB Hunt,1993 USD,SH100080,STD,-10Â°F,"January 15, 2024",Forklift,Pending,VIN-2372505,COL,Electronics,300km,DRV-6051220
+Pune,Varanasi,03-06-2026,3268 lbs,52 cu ft,Dry Van,Maersk Line,"â‚¹2,835",SH100081,Same Day,5 Â°C,15-01-2024,Lift Gate,Cancelled,VIN 3738126,STC,Textiles,800 KM,DRV 4936395
+Guwahati,Hyderabad,06-03-2026,9802 KG,38 cu ft,LTL,Maersk Line,"$3,499",SH100082,Standard,Frozen,Jan 15 2024,Dock,Pending,VIN-5712198,Freight Prepaid,Machinery,1200 kilometers,DRV-8581447
+Indore,Ranchi,06-03-2026,15935 kg,100 CBM,Lowboy,Swift Transport,USD 3208,SH100083,Priority,5 Â°C,"January 15, 2024",Forklift,In Transit,VIN7146336,Collect,Pharma,450-km,DRIVER9719543
+Indore,Chennai,32/02/2026,5602 KG,3 CBM,fulltruck,Knight Transportation,â‚¹2171,SH100084,Economy,Ambient,"January 15, 2024",No Dock,Pending,vin3079720,Freight Prepaid,Machinery,350 KM,DRV 6589114
+Noida,Hosur,March 6 2026,9144 lbs,34 CBM,fulltruck,Ryder Logistics,$3871,SH100085,Standard,-10Â°F,"January 15, 2024",Open Yard,Picked Up,VIN7328321,PPD,Textiles,400 kilometers,drv7612598
+Patna,Hosur,06-03-2026,4264 lbs,8 cubic meters,Full Truck Load,SWIFT TRANSPORT,1524,SH100086,Next Day,+4C,20240115,Dock,Processing,VIN-1715214,STC,Agricultural Products,350 KM,drv2428398
+Nagpur,Delhi,03-06-2026,3015 tons,21 m3,Container,SWIFT TRANSPORT,3278,SH100087,STD,2C,"January 15, 2024",Open Yard,On Hold,VIN:6974716,Collect,Pharma,300km,DRIVER4529414
+Ahmedabad,Hyderabad,March 6 2026,13646 Ton,18 CBM,Step Deck,JB Hunt,â‚¹1401,SH100088,Overnight,5 Â°C,2024-01-15T08:30,Rear Load,Cancelled,vin8641820,COL,Agricultural Products,300km,DRV-7887644
+Nagpur,Delhi,03-06-2026,15647 kg,57 cubic meters,fulltruck,DHL Express,1589 USD,SH100089,Premium,No Temp Control,20240115,Rear Load,Pending,VIN 5540007,Freight Prepaid,Furniture,350 KM,DRV8101533
+Vijayawada,Ahmedabad,Feb 6 2026,17092 kg,86 cubic meters,Full Truck Load,XPO Logistics,USD 1003,SH100090,Standard,5 Â°C,01/15/2024,Rear Load,Processing,VIN:5747346,Prepaid,Furniture,700 km,drv7198612
+Hyderabad,Ahmedabad,03-06-2026,16685 lbs,33 cu ft,Step Deck,JB Hunt,3338,SH100091,Ground,-10Â°F,Jan 15 2024,Rear Load,Cancelled,VIN 2092615,STC,Textiles,450-km,drv7947507
+Varanasi,Pune,06-03-2026,19789 KG,43 cubic meters,Step Deck,DHL Express,2327,SH100092,Same Day,5 Â°C,15-01-2024,Ramp,Delivered,VIN:2002957,Freight Collect,Plastic Goods,400 kilometers,drv6926391
+Trichy,Ahmedabad,06-03-2026,10280 kg,17 cubic meters,FTL,JB Hunt,"$3,419",SH100093,Ground,20 Â°C,2024-01-15T08:30,No Dock,Pending,vin9155256,Freight Prepaid,Electronics,300km,DRIVER7783821
+Trichy,Nagpur,32/02/2026,649 kg,44 m3,LTL,Swift Transport,3574 USD,SH100094,Next Day,Frozen,15-01-2024,Dock,On Hold,vin8420119,Collect,Plastic Goods,1000kms,drv6878716
+Indore,Chennai,06-03-2026,8255 kg,73 CBM,Tanker,DHL Express,"$3,774",SH100095,STD,Frozen,01/15/2024,Rear Load,On Hold,VIN2407826,STC,Agricultural Products,450-km,DRIVER7975174
+Patna,Chennai,March 6 2026,2236 kg,19 cubic meters,Full Truck Load,FedEx Freight,3619,SH100096,Economy,40Â°F,01/15/2024,Forklift,Processing,VIN 1184753,COL,Steel,500km,DRV9642528
+Mumbai,Delhi,March 6 2026,14354 kg,41 m3,Dry Van,Knight Transportation,$3913,SH100097,Standard,Ambient,Jan 15 2024,No Dock,Pending,VIN-5865914,STC,Textiles,800 KM,drv9177623
+Delhi,Chennai,06-03-2026,15763 tons,90 m3,Dry Van,Ryder Logistics,1376,SH100098,Urgent,Frozen,2024-01-15T08:30,Loading Dock,In Transit,VIN8330356,Freight Collect,Textiles,300km,drv9157022

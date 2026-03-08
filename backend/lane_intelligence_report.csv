@@ -1,0 +1,8 @@
+lane_id,lane_volume,avg_actual_rate,avg_predicted_rate,avg_distance_km,avg_data_quality,carrier_name,recommended_rate,savings_per_shipment,savings_percentage,negotiation_priority,negotiation_flag,annual_savings_potential,annual_savings_potential_lakhs
+Bangalore_Chennai_flatbed_next day,1,1800.0,1248.781453331866,350.0,50.0,knight trans,1311.22,488.78,27.15,27.15,🔴 Immediate Renegotiation Required,5865.36,0.06
+Chennai_Mumbai_full truck load_standard,1,1200.0,1622.3102681563994,350.0,40.0,swift transport,1703.43,-503.43,-41.95,41.95,🟢 Fairly Priced,-6041.16,-0.06
+Delhi_Jaipur_ftl_exp,1,3500.0,1832.594544026341,500.0,50.0,fedex freight,1924.22,1575.78,45.02,45.02,🔴 Immediate Renegotiation Required,18909.36,0.19
+Hyderabad_Ahmedabad_reefer_urgent,1,2500.0,1665.4136975948536,800.0,50.0,dhl logistics,1748.68,751.32,30.05,30.05,🔴 Immediate Renegotiation Required,9015.84,0.09
+Kolkata_Patna_dry van_economy,1,200.0,2019.8598957516144,600.0,50.0,ups logistics,2120.85,-1920.85,-960.42,960.42,🟢 Fairly Priced,-23050.2,-0.23
+Mumbai_Pune_ltl_premium,1,15000.0,1844.292384892941,200.0,50.0,maersk line,1936.51,13063.49,87.09,87.09,🔴 Immediate Renegotiation Required,156761.88,1.57
+Noida_Gurgaon_low boy_same-day,1,4000.0,1568.261764189514,450.0,40.0,xpo log,1646.67,2353.33,58.83,58.83,🔴 Immediate Renegotiation Required,28239.96,0.28
